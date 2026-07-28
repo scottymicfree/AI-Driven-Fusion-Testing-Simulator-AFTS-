@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "experiment_id": "acoustic-plasma-cross-site-demo",
+  "objective": "Compare site-induced deltas in a coupled acoustic-plasma simulation",
+  "site_manifest": "example-site-manifest.json",
+  "engines": [
+    "declared-plasma-solver",
+    "declared-acoustic-solver"
+  ],
+  "coupling": {
+    "method": "partitioned-iterative",
+    "cadence_s": 1e-06,
+    "convergence_tolerance": 1e-07
+  },
+  "reproducibility": {
+    "random_seed": 20260728,
+    "record_environment": true
+  },
+  "safety_mode": "simulation_only"
+}

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "AI-Driven Fusion Testing Simulator (AFTS): Open Architecture Specification"
+message: "Please cite the AFTS specification when using or adapting this architecture."
+type: generic
+version: 1.0.0
+date-released: 2026-07-28
+license: CC-BY-4.0
+abstract: "An open, implementation-neutral architecture for site-aware, AI-assisted multiphysics simulation of fusion and hybrid acoustic-plasma systems."

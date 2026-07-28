@@ -1,0 +1,10 @@
+flowchart TD
+A[Experiment Manifest] --> B[Site and Frame Services]
+B --> C[Multiphysics Orchestrator]
+C --> D[Physics Engines]
+D --> C
+C --> E[Diagnostics and Stability]
+E --> F[AI Assistance and Controller]
+F --> C
+E --> G[Results and Provenance]
+G --> H[Cross-Site Replay]

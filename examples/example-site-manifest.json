@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "site_id": "example-stl-lab",
+  "datum": "WGS84",
+  "latitude_deg": 38.627,
+  "longitude_deg": -90.1994,
+  "height": {
+    "value": 142.0,
+    "unit": "m",
+    "type": "ellipsoidal_example_only"
+  },
+  "local_frame": "ENU",
+  "earth_rotation_model": "IERS-compatible declared implementation",
+  "gravity_model": "implementation-declared",
+  "coordinate_uncertainty_m": 5.0,
+  "note": "Illustrative values only; not a validated laboratory site."
+}
