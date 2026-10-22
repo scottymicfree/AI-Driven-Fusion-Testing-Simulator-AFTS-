@@ -1,5 +1,8 @@
 # AFTS - AI-Driven Fusion Testing Simulator
 
+> 🌐 **Fenton Lab official website:** [fentonlabai.pages.dev](https://fentonlabai.pages.dev/)  
+> Planned primary domain: `fentonlabai.com` (custom-domain connection pending).
+
 ## Open Architecture Specification
 
 AFTS is an open, implementation-neutral architecture for site-aware, AI-assisted multiphysics simulation of fusion and hybrid acoustic-plasma systems. This repository publishes the concept, architecture, scientific responsibilities, interoperability contracts, validation approach, and implementation guidance. It contains no canonical software implementation and does not require any particular platform, programming language, solver, AI model, interface, vendor, or cloud service.
